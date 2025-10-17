@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+🎓 Information Technology Student at Tarumanagara University (UNTAR), currently in my fifth semester.<br>💻 I’m passionate about software development, especially in web applications, backend systems, and full-stack projects using Laravel.<br>🚀 I love turning ideas into real, functional solutions — from client-based systems to academic projects.<br><br>🌱 I’m currently improving my skills in Laravel, JavaScript, and RESTful API development.<br><br>🧠 Also exploring software testing (QA) and system optimization.<br><br>💼 Experienced in managing real client projects, including a paid salon booking system built with Laravel.<br><br>🧩 Active in campus organizations — I’ve developed strong skills in leadership, teamwork, and strategic project management.<br><br>🎯 My goal is to build impactful and efficient software that blends functionality with great user experience.<br><br>🌱 I’m currently improving my skills in Laravel, JavaScript, and RESTful API development.<br><br>🧠 Also exploring software testing (QA) and system optimization.<br><br>💼 Experienced in managing real client projects, including a paid salon booking system built with Laravel.<br><br>🧩 Active in campus organizations — I’ve developed strong skills in leadership, teamwork, and strategic project management.<br><br>🎯 My goal is to build impactful and efficient software that blends functionality with great user experience.📈 Current Projects<br><br>💇‍♀️ Regina Salon System<br> – A real-client salon booking and management web app built with Laravel.<br><br>🍔 Ollies QR-Order System – A QR-based ordering web system for restaurants, enabling customers to order directly from their table.⚡ Fun Fact<br><br>When I’m not coding, you’ll probably find me teaching, designing, or working on campus events — I enjoy blending creativity, technology, and teamwork in everything I do!
 
-<!--
-**raymondeuginio/raymondeuginio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymondeuginio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymondeuginio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayeuginio@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raymondeuginio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=raymondeuginio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondeuginio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=raymondeuginio&icon=0&color=0)](https://visitcount.itsvg.in)
